@@ -1,0 +1,34 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "ActionMap",
+            "id": "775ce31c-2e81-4b10-b12b-014c6e63dbcd",
+            "actions": [
+                {
+                    "name": "MouseMovement",
+                    "type": "Button",
+                    "id": "ea30686f-3f1d-4ae4-b556-5baf81a1a8b9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e58e2000-703b-4cc1-8e18-df3a97153f68",
+                    "path": "<VirtualMouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseMovement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
